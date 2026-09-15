@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+
+# Archive du template (doublon du dossier « Copy of Site galerie… »)
+*.zip
+
+node_modules/
